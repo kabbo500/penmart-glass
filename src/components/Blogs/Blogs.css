@@ -1,0 +1,12 @@
+.blogs {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 30px;
+}
+
+.blog {
+    border: 2px solid lightgray;
+    margin: 20px;
+    padding: 15px;
+    border-radius: 15px;
+}
