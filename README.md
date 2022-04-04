@@ -1,3 +1,22 @@
+# All details about projects 
+
+1. projects name: Lenscart(Route website).
+
+2. Live website link : [https://celadon-granita-aec4f8.netlify.app/]
+
+
+# Everything I am doing in this project.
+
+* First create a custom nav bar.
+
+* Then write home page's welcome article and create, three customers reviews about our products.
+
+* Thirdly create all products reviews in review page.
+
+* Then answer the two questions out of three.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
