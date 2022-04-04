@@ -1,0 +1,38 @@
+[
+  {
+    "id": "623853b2614ad5aba311fdd1",
+    "name": "Johirul Islam",
+    "review": "Their product is not value for money. But I am satisfied about their service.",
+    "rating": 3.8
+  },
+  {
+    "id": "623853b2578e9e6ad1ae0dd5",
+    "name": "Ahosanul Islam",
+    "review": "Till now I have bought 4 glasses for me and my friends. And all of them are satisfied.",
+    "rating": 4.9
+  },
+  {
+    "id": "623853b21fb149d2ee7b76c7",
+    "name": "Rafsn khan",
+    "review": "I bought the h3r0 model, and since then using if for 1 year.",
+    "rating": 4.5
+  },
+  {
+    "id": "623853b2e91c8de578c9245e",
+    "name": "Tasnuva sorkar",
+    "review": "I have a little proble about their service. but overall ok.",
+    "rating": 3.2
+  },
+  {
+    "id": "623853b2239582e48409ccc6",
+    "name": "Emon khan",
+    "review": "Their customer service is so good.I got a small problem, they have return back",
+    "rating": 4.3
+  },
+  {
+    "id": "623853b2cdda0d5bc294f791",
+    "name": "Rana kazi",
+    "review": "I have been using their glass for last 2years. So good at all",
+    "rating": 4.8
+  }
+]
