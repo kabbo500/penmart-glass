@@ -11,7 +11,7 @@ const Header = () => {
                 <CustomLink to="/blogs">Blogs</CustomLink>
                 <CustomLink to="/about">About</CustomLink>
             </nav>
-            <h1>Welcome to Lenscart Bangladesh</h1>
+
         </div>
     );
 };

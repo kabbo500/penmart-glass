@@ -5,11 +5,12 @@ import './Home.css'
 const Home = () => {
     const [reviews, setReviews] = useReviews();
     return (
-        <div>
+        <div className='home'>
+            <h1>Welcome to Lenscart Bangladesh</h1>
             <div className='homepage-container'>
                 <div className="article-part">
                     <h1>Your next glass <br />
-                        Your best glass
+                        <span className='second-part'>Your best glass</span>
                     </h1>
                     <p>Sunglasses are designed to protect the eyes both from excessive light and from damaging UV light rays.Sunglasses are aimed at the young but they are more than a fashion statement, they play an essential role in protecting the eyes.</p>
                 </div>
