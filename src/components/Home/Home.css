@@ -1,0 +1,24 @@
+.homepage-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    margin: 40px 50px;
+}
+
+.article-part {
+    margin-left: 100px;
+}
+
+.article-part h1 {
+    color: lightcoral;
+    font-size: 60px;
+}
+
+.article-part p {
+    font-size: 40px;
+}
+
+.img-part img {
+    width: 600px;
+    border: 5px solid lightgrey;
+    border-radius: 10px;
+}
